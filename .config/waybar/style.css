@@ -1,0 +1,15 @@
+* {
+    /* `otf-font-awesome` is required to be installed for icons */
+    font-family: 'JetBrainsMonoNL Nerd Font';
+    font-size: 15px;
+}
+
+window#waybar {
+    background-color: rgba(32, 32, 32, 0.902);
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+#custom-power {
+    margin-right: 10px;
+}
